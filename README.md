@@ -29,6 +29,7 @@ I enjoy tackling complex engineering challenges and turning them into clean, fun
 
 **Vision & AI**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
 
 **Tools & Frameworks**  
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
