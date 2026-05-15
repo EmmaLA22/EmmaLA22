@@ -53,8 +53,9 @@ Collaborated on the development and testing of swarm-based drone systems. Involv
 
 ### 🎮 FPGA Videogame Simulator — Intel
 Developed a videogame simulator integrating **Processing**, **PicoBlaze** (assembly), and **Vivado** (FPGA synthesis) running simultaneously, with real-time external controller input.
+link about the proyect: https://youtu.be/IaKZ9adnqQs
 `FPGA · PicoBlaze · Vivado · Processing · Assembly`
- link about the proyect: https://youtu.be/IaKZ9adnqQs
+
 ---
 
 ### 📷 Vehicle Speed Detection via Image Processing
